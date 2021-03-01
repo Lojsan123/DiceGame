@@ -51,6 +51,7 @@ namespace DiceGame
             }
             else 
             {
+                Console.WriteLine($"Game Over!");
                 return;
             }
         }
