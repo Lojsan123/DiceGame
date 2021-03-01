@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceGame", "DiceGame\DiceGame.csproj", "{CFD6A4B9-D6F2-43B9-BE2C-BA3F8B09C10A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceTest", "DiceTest\DiceTest.csproj", "{91219CE6-2978-4CC3-8668-2782F666A174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD6A4B9-D6F2-43B9-BE2C-BA3F8B09C10A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD6A4B9-D6F2-43B9-BE2C-BA3F8B09C10A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD6A4B9-D6F2-43B9-BE2C-BA3F8B09C10A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD6A4B9-D6F2-43B9-BE2C-BA3F8B09C10A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91219CE6-2978-4CC3-8668-2782F666A174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91219CE6-2978-4CC3-8668-2782F666A174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91219CE6-2978-4CC3-8668-2782F666A174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91219CE6-2978-4CC3-8668-2782F666A174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4489F35-1137-4E6D-B732-0D3752472762}
+	EndGlobalSection
+EndGlobal
